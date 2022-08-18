@@ -1,0 +1,9 @@
+.vscode
+.env
+artifacts
+cache
+deployments
+node_modules
+.prettierrc
+gas-report.txt
+coverage
